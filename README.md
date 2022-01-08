@@ -1,4 +1,4 @@
-# shortcut-ticket
+# create-shortcut-ticket
 
 ## Inputs
 

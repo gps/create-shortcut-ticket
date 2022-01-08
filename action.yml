@@ -1,4 +1,4 @@
-name: shortcut-ticket
+name: create-shortcut-ticket
 description: 'Action description' # description of the action
 inputs:
   input-1:  # id of input. Github recommendeds using lowercase input ids.
